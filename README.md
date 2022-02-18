@@ -1,8 +1,8 @@
-# News Reader 🚗
+# News Reader
 
 React with Redux Programmer Test. App that holds and manage redux store state with additional async api calls for login user and fetch data from external database.
 
-## [APP DEMO](https://...)
+## [APP DEMO](https://react-redux-news-reader-app.vercel.app)
 
 ## Requirements
 
