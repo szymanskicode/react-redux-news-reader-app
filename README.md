@@ -1,4 +1,4 @@
-# News Reader
+# News Reader App
 
 React with Redux Programmer Test. App that holds and manage redux store state with additional async api calls for login user and fetch data from external database.
 
@@ -11,7 +11,7 @@ React with Redux Programmer Test. App that holds and manage redux store state wi
 
 ## How to install?
 
-    > git clone ...
+    > git clone https://github.com/szymanskicode/react-redux-news-reader-app.git
     > cd react-redux-news-reader-app
     > npm install
     > npm run start
