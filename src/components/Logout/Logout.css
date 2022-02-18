@@ -1,0 +1,33 @@
+.logout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 30px 60px;
+}
+
+.logout .logged-as {
+  text-align: center
+}
+
+.logout .username {
+  font-weight: 600;
+  color: rgb(0, 125, 0)
+}
+
+.logout section {
+  width: 100%;
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+
+.logout section h1 {
+  font-size: 24px;
+  font-weight: 100;
+  text-align: center;
+  letter-spacing: 3px;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}

@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: Verdana, sans-serif;
+  color: rgb(50, 50, 50);
+  font-size: 16px;
+}
+
+body {
+  background: rgb(230, 230, 230);
+}
+
+.submit-btn {
+  width: 100%;
+  background: rgb(50, 50, 50);
+  color: rgb(245, 245, 245);
+  font-size: 14px;
+  padding: 17px 30px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background: rgb(25, 25, 25);
+}
