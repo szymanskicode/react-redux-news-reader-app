@@ -30,7 +30,8 @@ const Login = () => {
   return (
     <div className="login">
       <form action="submit" onSubmit={(e) => handleSubmit(e)}>
-        <h1>Zaloguj się</h1>
+        <h1>News Reader</h1>
+        <h2>Zaloguj się</h2>
         <input
           type="text"
           placeholder="Jak masz na imię?"
